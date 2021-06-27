@@ -10,6 +10,8 @@ git clone https://github.com/bydeathlxncer/zap-link
 
 cd zap-link
 
+chmod +x *
+
 bash zap-link.sh
 
 agora insira o número e um texto para chat!
