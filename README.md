@@ -11,3 +11,4 @@ cd zap-link
 
 bash zap-link.sh
 
+agora insira o número e um texto para chat!
