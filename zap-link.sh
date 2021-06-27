@@ -81,7 +81,8 @@ echo ""
 fi
 if [ "$options" -eq "2" ];then
 echo ""
-echo -e "\e[1;91m‎‎‏‏ me segue no github garai !"
+echo -e "\e[1;91m‎‎‏‏ me segue no github garai
+https://github.com/bydeathlxncer !"
 echo ""
 exit
 fi
