@@ -5,7 +5,7 @@ instalação:
 
 pkg install git
 
-git clone 
+git clone https://github.com/bydeathlxncer/zap-link
 
 cd zap-link
 
